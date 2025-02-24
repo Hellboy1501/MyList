@@ -1,0 +1,155 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="13 Ulica" group-title="IPTV" dvb-reference="4097:0:1:BD62:4577:EC:0:0:0:0", 13 Ulica
+http://178.219.128.68:64888/13ULICHD
+#EXTINF:-1 tvg-name="4 Fun Dance" group-title="IPTV" dvb-reference="4097:0:1:C45B:B093:EC:0:0:0:0", 4 Fun Dance
+http://178.219.128.68:64888/4FUNDANC
+#EXTINF:-1 tvg-name="4 Fun TV" group-title="IPTV" dvb-reference="4097:0:1:43ED:23F1:EC:0:0:0:0", 4 Fun TV
+http://178.219.128.68:64888/4FUNTV
+#EXTINF:-1 tvg-name="ACTIFAMIHD" group-title="IPTV" dvb-reference="4097:0:1:2674:992A:EC:0:0:0:0", ACTIFAMIHD
+http://178.219.128.68:64888/ACTIFAMIHD
+#EXTINF:-1 tvg-name="ALEKINOHD" group-title="IPTV" dvb-reference="4097:0:1:5F2:1A56:EC:0:0:0:0", ALEKINOHD
+http://178.219.128.68:64889/ALEKINOHD
+#EXTINF:-1 tvg-name="Alfa TVP" group-title="IPTV" dvb-reference="4097:0:1:D591:AE51:EC:0:0:0:0", Alfa TVP
+http://109.233.89.166/Alfa_TVP_HD/index.m3u8
+#EXTINF:-1 tvg-name="AMCHD" group-title="IPTV" dvb-reference="4097:0:1:7860:E06A:EC:0:0:0:0", AMCHD
+http://178.219.128.68:64889/AMCHD
+#EXTINF:-1 tvg-name="AXN" group-title="IPTV" dvb-reference="4097:0:1:2384:15D1:EC:0:0:0:0", AXN
+http://178.219.128.68:64888/AXN
+#EXTINF:-1 tvg-name="a075" group-title="IPTV" dvb-reference="4097:0:1:95DE:DAA6:EC:0:0:0:0", a075
+http://185.236.229.62:9981/play/a075
+#EXTINF:-1 tvg-name="a074" group-title="IPTV" dvb-reference="4097:0:1:F337:660B:EC:0:0:0:0", a074
+http://185.236.229.62:9981/play/a074
+#EXTINF:-1 tvg-name="BBCBRITHD" group-title="IPTV" dvb-reference="4097:0:1:C7E0:EF11:EC:0:0:0:0", BBCBRITHD
+http://178.219.128.68:64889/BBCBRITHD
+#EXTINF:-1 tvg-name="BBCEARTHD" group-title="IPTV" dvb-reference="4097:0:1:3810:717B:EC:0:0:0:0", BBCEARTHD
+http://178.219.128.68:64888/BBCEARTHD
+#EXTINF:-1 tvg-name="a02n" group-title="IPTV" dvb-reference="4097:0:1:2216:6486:EC:0:0:0:0", a02n
+http://185.236.229.62:9981/play/a02n
+#EXTINF:-1 tvg-name="BBCLIFEHD" group-title="IPTV" dvb-reference="4097:0:1:4EA6:9BC3:EC:0:0:0:0", BBCLIFEHD
+http://178.219.128.68:64888/BBCLIFEHD
+#EXTINF:-1 tvg-name="index.m3u8" group-title="IPTV" dvb-reference="4097:0:1:8712:BD76:EC:0:0:0:0", index.m3u8
+http://109.233.89.166/Boomerang_HD/index.m3u8
+#EXTINF:-1 tvg-name="a05s" group-title="IPTV" dvb-reference="4097:0:1:FA6D:1832:EC:0:0:0:0", a05s
+http://185.236.229.62:9981/play/a05s
+#EXTINF:-1 tvg-name="CANAFAMIHD" group-title="IPTV" dvb-reference="4097:0:1:6EC5:D2F5:EC:0:0:0:0", CANAFAMIHD
+http://178.219.128.68:64889/CANAFAMIHD
+#EXTINF:-1 tvg-name="CANADOKUHD" group-title="IPTV" dvb-reference="4097:0:1:CA13:4937:EC:0:0:0:0", CANADOKUHD
+http://178.219.128.68:64889/CANADOKUHD
+#EXTINF:-1 tvg-name="DOMOHD" group-title="IPTV" dvb-reference="4097:0:1:FAB:757E:EC:0:0:0:0", DOMOHD
+http://178.219.128.68:64889/DOMOHD
+#EXTINF:-1 tvg-name="CANAFILMHD" group-title="IPTV" dvb-reference="4097:0:1:7F01:1368:EC:0:0:0:0", CANAFILMHD
+http://178.219.128.68:64889/CANAFILMHD
+#EXTINF:-1 tvg-name="KUCHHD" group-title="IPTV" dvb-reference="4097:0:1:1FAA:9798:EC:0:0:0:0", KUCHHD
+http://178.219.128.68:64889/KUCHHD
+#EXTINF:-1 tvg-name="CANAHD" group-title="IPTV" dvb-reference="4097:0:1:4067:2262:EC:0:0:0:0", CANAHD
+http://178.219.128.68:64889/CANAHD
+#EXTINF:-1 tvg-name="CANASERIHD" group-title="IPTV" dvb-reference="4097:0:1:D871:FB26:EC:0:0:0:0", CANASERIHD
+http://178.219.128.68:64888/CANASERIHD
+#EXTINF:-1 tvg-name="CANASPORHD" group-title="IPTV" dvb-reference="4097:0:1:9ABB:4E3D:EC:0:0:0:0", CANASPORHD
+http://178.219.128.68:64888/CANASPORHD
+#EXTINF:-1 tvg-name="CANASPOR2HD" group-title="IPTV" dvb-reference="4097:0:1:BF1E:485F:EC:0:0:0:0", CANASPOR2HD
+http://178.219.128.68:64888/CANASPOR2HD
+#EXTINF:-1 tvg-name="a05e" group-title="IPTV" dvb-reference="4097:0:1:6A33:4B18:EC:0:0:0:0", a05e
+http://185.236.229.62:9981/play/a05e
+#EXTINF:-1 tvg-name="a05f" group-title="IPTV" dvb-reference="4097:0:1:CDA:BFB3:EC:0:0:0:0", a05f
+http://185.236.229.62:9981/play/a05f
+#EXTINF:-1 tvg-name="5.m3u8" group-title="IPTV" dvb-reference="4097:0:1:1793:3A5D:EC:0:0:0:0", 5.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/b6397b24-18b0-49c2-80bf-0333ae568e37/5.m3u8
+#EXTINF:-1 tvg-name="CARTNETWHD" group-title="IPTV" dvb-reference="4097:0:1:585C:7DC8:EC:0:0:0:0", CARTNETWHD
+http://178.219.128.68:64888/CARTNETWHD
+#EXTINF:-1 tvg-name="a02v" group-title="IPTV" dvb-reference="4097:0:1:E263:75FE:EC:0:0:0:0", a02v
+http://185.236.229.62:9981/play/a02v
+#EXTINF:-1 tvg-name="a05p" group-title="IPTV" dvb-reference="4097:0:1:1276:BA61:EC:0:0:0:0", a05p
+http://185.236.229.62:9981/play/a05p
+#EXTINF:-1 tvg-name="a07r" group-title="IPTV" dvb-reference="4097:0:1:57C5:A395:EC:0:0:0:0", a07r
+http://185.236.229.62:9981/play/a07r
+#EXTINF:-1 tvg-name="COMECENTHD" group-title="IPTV" dvb-reference="4097:0:1:4537:84FB:EC:0:0:0:0", COMECENTHD
+http://178.219.128.68:64889/COMECENTHD
+#EXTINF:-1 tvg-name="DISCLIFEHD" group-title="IPTV" dvb-reference="4097:0:1:B84F:B255:EC:0:0:0:0", DISCLIFEHD
+http://178.219.128.68:64888/DISCLIFEHD
+#EXTINF:-1 tvg-name="index.m3u8" group-title="IPTV" dvb-reference="4097:0:1:7FF3:99D6:EC:0:0:0:0", index.m3u8
+http://109.233.89.166/DTX_HD/index.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 1 HD" group-title="IPTV" dvb-reference="4097:0:1:DA73:D113:EC:0:0:0:0", Eleven Sports 1 HD
+http://109.233.89.166/Eleven_Sports_1_HD/index.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 2 HD" group-title="IPTV" dvb-reference="4097:0:1:40A3:3C44:EC:0:0:0:0", Eleven Sports 2 HD
+http://109.233.89.170/Eleven_Sports_2_HD/mono.m3u8
+#EXTINF:-1 tvg-name="Eleven Sport 3 HD" group-title="IPTV" dvb-reference="4097:0:1:62C2:D783:EC:0:0:0:0", Eleven Sport 3 HD
+http://109.233.89.170/Eleven_Sports_3_HD/mono.m3u8
+#EXTINF:-1 tvg-name="Eleven Sports 4 HD" group-title="IPTV" dvb-reference="4097:0:1:988D:3DFF:EC:0:0:0:0", Eleven Sports 4 HD
+http://109.233.89.166/ELEVEN_SPORTS_4_HD/mono.m3u8
+#EXTINF:-1 tvg-name="ESKATVHD" group-title="IPTV" dvb-reference="4097:0:1:FAA7:233C:EC:0:0:0:0", ESKATVHD
+http://178.219.128.68:64888/ESKATVHD
+#EXTINF:-1 tvg-name="FILMEXTRHD" group-title="IPTV" dvb-reference="4097:0:1:65F5:6F6B:EC:0:0:0:0", FILMEXTRHD
+http://178.219.128.68:64888/FILMEXTRHD
+#EXTINF:-1 tvg-name="FILMPREMHD" group-title="IPTV" dvb-reference="4097:0:1:D899:D78:EC:0:0:0:0", FILMPREMHD
+http://178.219.128.68:64888/FILMPREMHD
+#EXTINF:-1 tvg-name="FOKUTV" group-title="IPTV" dvb-reference="4097:0:1:D395:713E:EC:0:0:0:0", FOKUTV
+http://178.219.128.68:64889/FOKUTV
+#EXTINF:-1 tvg-name="FOXHD" group-title="IPTV" dvb-reference="4097:0:1:BB47:58A4:EC:0:0:0:0", FOXHD
+http://178.219.128.68:64889/FOXHD
+#EXTINF:-1 tvg-name="FOXCOMEHD" group-title="IPTV" dvb-reference="4097:0:1:8DD3:A778:EC:0:0:0:0", FOXCOMEHD
+http://178.219.128.68:64889/FOXCOMEHD
+#EXTINF:-1 tvg-name="HBOHD" group-title="IPTV" dvb-reference="4097:0:1:FEFB:C77B:EC:0:0:0:0", HBOHD
+http://178.219.128.68:64888/HBOHD
+#EXTINF:-1 tvg-name="HBO2HD" group-title="IPTV" dvb-reference="4097:0:1:920A:AD:EC:0:0:0:0", HBO2HD
+http://178.219.128.68:64888/HBO2HD
+#EXTINF:-1 tvg-name="HBO3HD" group-title="IPTV" dvb-reference="4097:0:1:EE2E:4632:EC:0:0:0:0", HBO3HD
+http://178.219.128.68:64888/HBO3HD
+#EXTINF:-1 tvg-name="a07v" group-title="IPTV" dvb-reference="4097:0:1:E263:7601:EC:0:0:0:0", a07v
+http://185.236.229.62:9981/play/a07v
+#EXTINF:-1 tvg-name="HOMETV" group-title="IPTV" dvb-reference="4097:0:1:F807:14D6:EC:0:0:0:0", HOMETV
+http://178.219.128.68:64889/HOMETV
+#EXTINF:-1 tvg-name="KINOPOLSHD" group-title="IPTV" dvb-reference="4097:0:1:7A8E:9E2D:EC:0:0:0:0", KINOPOLSHD
+http://178.219.128.68:64888/KINOPOLSHD
+#EXTINF:-1 tvg-name="METRHD" group-title="IPTV" dvb-reference="4097:0:1:2A7C:26C5:EC:0:0:0:0", METRHD
+http://178.219.128.68:64889/METRHD
+#EXTINF:-1 tvg-name="a02r" group-title="IPTV" dvb-reference="4097:0:1:57C5:A392:EC:0:0:0:0", a02r
+http://185.236.229.62:9981/play/a02r
+#EXTINF:-1 tvg-name="MTVHD" group-title="IPTV" dvb-reference="4097:0:1:645C:DAF5:EC:0:0:0:0", MTVHD
+http://178.219.128.68:64888/MTVHD
+#EXTINF:-1 tvg-name="a06f" group-title="IPTV" dvb-reference="4097:0:1:CDA:BFB2:EC:0:0:0:0", a06f
+http://185.236.229.62:9981/play/a06f
+#EXTINF:-1 tvg-name="NATIGEOGHD" group-title="IPTV" dvb-reference="4097:0:1:2C4B:2397:EC:0:0:0:0", NATIGEOGHD
+http://178.219.128.68:64889/NATIGEOGHD
+#EXTINF:-1 tvg-name="a05z" group-title="IPTV" dvb-reference="4097:0:1:6D01:486F:EC:0:0:0:0", a05z
+http://185.236.229.62:9981/play/a05z
+#EXTINF:-1 tvg-name="NOWATVHD" group-title="IPTV" dvb-reference="4097:0:1:D7C7:A7EA:EC:0:0:0:0", NOWATVHD
+http://178.219.128.68:64889/NOWATVHD
+#EXTINF:-1 tvg-name="a05h" group-title="IPTV" dvb-reference="4097:0:1:5229:A8E9:EC:0:0:0:0", a05h
+http://185.236.229.62:9981/play/a05h
+#EXTINF:-1 tvg-name="a069" group-title="IPTV" dvb-reference="4097:0:1:207C:AD13:EC:0:0:0:0", a069
+http://185.236.229.62:9981/play/a069
+#EXTINF:-1 tvg-name="PLANHD" group-title="IPTV" dvb-reference="4097:0:1:4112:34FC:EC:0:0:0:0", PLANHD
+http://178.219.128.68:64889/PLANHD
+#EXTINF:-1 tvg-name="POLO1" group-title="IPTV" dvb-reference="4097:0:1:A33D:4AA6:EC:0:0:0:0", POLO1
+http://178.219.128.68:64889/POLO1
+#EXTINF:-1 tvg-name="POLSHD" group-title="IPTV" dvb-reference="4097:0:1:89DE:66A7:EC:0:0:0:0", POLSHD
+http://178.219.128.68:64889/POLSHD
+#EXTINF:-1 tvg-name="POLS2HD" group-title="IPTV" dvb-reference="4097:0:1:46F:D268:EC:0:0:0:0", POLS2HD
+http://178.219.128.68:64888/POLS2HD
+#EXTINF:-1 tvg-name="POLSCAFEHD" group-title="IPTV" dvb-reference="4097:0:1:A350:A116:EC:0:0:0:0", POLSCAFEHD
+http://178.219.128.68:64889/POLSCAFEHD
+#EXTINF:-1 tvg-name="POLSDOKUHD" group-title="IPTV" dvb-reference="4097:0:1:6981:494B:EC:0:0:0:0", POLSDOKUHD
+http://178.219.128.68:64888/POLSDOKUHD
+#EXTINF:-1 tvg-name="POLSFILMHD" group-title="IPTV" dvb-reference="4097:0:1:D48:8B15:EC:0:0:0:0", POLSFILMHD
+http://178.219.128.68:64889/POLSFILMHD
+#EXTINF:-1 tvg-name="a025" group-title="IPTV" dvb-reference="4097:0:1:95DE:DAA3:EC:0:0:0:0", a025
+http://185.236.229.62:9981/play/a025
+#EXTINF:-1 tvg-name="a02b" group-title="IPTV" dvb-reference="4097:0:1:823C:ED42:EC:0:0:0:0", a02b
+http://185.236.229.62:9981/play/a02b
+#EXTINF:-1 tvg-name="PULS2HD" group-title="IPTV" dvb-reference="4097:0:1:6835:6DE7:EC:0:0:0:0", PULS2HD
+http://178.219.128.68:64889/PULS2HD
+#EXTINF:-1 tvg-name="SUPEPOLSHD" group-title="IPTV" dvb-reference="4097:0:1:505B:A338:EC:0:0:0:0", SUPEPOLSHD
+http://178.219.128.68:64889/SUPEPOLSHD
+#EXTINF:-1 tvg-name="Wydarzenia 24 HD" group-title="IPTV" dvb-reference="4097:0:1:3A7B:9643:EC:0:0:0:0", Wydarzenia 24 HD
+http://109.233.89.166/Wydarzenia_24_HD/index.m3u8
+#EXTINF:-1 tvg-name="TV4HD" group-title="IPTV" dvb-reference="4097:0:1:A743:9EC1:EC:0:0:0:0", TV4HD
+http://178.219.128.68:64889/TV4HD
+#EXTINF:-1 tvg-name="TV6HD" group-title="IPTV" dvb-reference="4097:0:1:A743:9E83:EC:0:0:0:0", TV6HD
+http://178.219.128.68:64889/TV6HD
+#EXTINF:-1 tvg-name="index.m3u8" group-title="IPTV" dvb-reference="4097:0:1:7BD5:62B8:EC:0:0:0:0", index.m3u8
+https://ec04-waw4.cache.orange.pl/dai4/org2/vb/105/tvp2hd/index.m3u8
+#EXTINF:-1 tvg-name="a02i" group-title="IPTV" dvb-reference="4097:0:1:F4D1:1D7F:EC:0:0:0:0", a02i
+http://185.236.229.62:9981/play/a02i
+#EXTINF:-1 tvg-name="TNTHD" group-title="IPTV" dvb-reference="4097:0:1:B2DC:8BD8:EC:0:0:0:0", TNTHD
+http://178.219.128.68:64888/TNTHD
